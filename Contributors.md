@@ -1844,6 +1844,7 @@
 - [Yew Kang Wei](https://github.com/yewyewXD)
 - [Joseph Carlyon](https://github.com/jwcarlyon)
 - [Joseph Cooper](https://github.com/Hamblok0)
+- [Olusegun Adarmaja](https://github.com/olumaja)
 - [Brian Lee](https://github.com/brain-eel)
 - [Harshit Kumar](https://github.com/HarshitChauhan)
 - [Antoine Flouzat 😃](https://github.com/Antoine-Flo)
